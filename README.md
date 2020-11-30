@@ -1,0 +1,2 @@
+# START-Projeto-Hackathon
+Start é um jogo desenvolvido para despertar o interesse de diferentes públicos nos acervos digitais das Instituições Culturais Brasileiras. A plataforma funciona como um app mobile e também um site, onde é possível jogar, criar e personalizar quizzes sobre os diferentes arquivos e coleções. A proposta é trazer curiosidades e informações sobre os acervos com questões com diferentes níveis de complexidade e organizadas por temas. Ao final de cada quiz, o participante também pode acessar mais informações sobre coleções, acervos e instituições.
